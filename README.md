@@ -11,3 +11,15 @@ Please DO NOT touch this repository in GitHub, as it will affect your Sandbox ex
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
 
 
+// declare the variable
+var word
+ 
+// assign a value to the variable
+word = 'bird'
+ 
+console.log(word) // 'bird'
+ 
+// assign another value to the variable
+word = 'dog'
+ 
+console.log(word) // 'dog'
